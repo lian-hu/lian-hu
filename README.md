@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**lllfff/lllfff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LIAN here from Sweden:)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI and machine learning enthusiast
+- Experienced in MLOps
+- Enjoy working with various programming languages and try to learn more:)
+- Skilled in cloud-native technologies
+- Knowledgeable about cyber security
+- Like technical challenges
+- Play badminton intensively, football and basketball casually
+
+## Let's Connect
+
+📬 If you're as passionate about AI, machine learning, and the endless possibilities of technology, let's connect! Reach out to me, via [LinkedIn.](https://linkedin.com/in/lian-hu)
+
+## Stay Inspired!
+
+Thank you for visiting my profile and joining me on this thrilling journey. Together, we'll inspire, innovate, and create a future where technology knows no bounds!
+
+
+
+
