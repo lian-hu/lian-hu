@@ -4,7 +4,7 @@ LIAN here from Sweden:)
 
 ## About Me
 
-- AI and machine learning enthusiast
+- Computer technology, AI, and machine learning enthusiast
 - Experienced in MLOps
 - Enjoy working with various programming languages and try to learn more:)
 - Skilled in cloud-native technologies
